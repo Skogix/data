@@ -1,0 +1,333 @@
+Script started on 2021-12-19 10:09:05+01:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="118" LINES="60"]
+[?25l[?7l[0m[34m[1m                    /-
+                   ooo:
+                  yoooo/
+                 yooooooo
+                yooooooooo
+               yooooooooooo
+             .yooooooooooooo
+            .oooooooooooooooo
+           .oooooooarcoooooooo
+          .ooooooooo-oooooooooo
+         .ooooooooo-  oooooooooo
+        :ooooooooo.    :ooooooooo
+       :ooooooooo.      :ooooooooo
+      :oooarcooo         .oooarcooo
+     :ooooooooy           .ooooooooo
+    :ooooooooo   [37m[0m[1m/ooooooooooooooooooo[0m[34m[1m
+   :ooooooooo      [37m[0m[1m.-ooooooooooooooooo.[0m[34m[1m
+  ooooooooo-             [37m[0m[1m-ooooooooooooo.[0m[34m[1m
+ ooooooooo-                 [37m[0m[1m.-oooooooooo.[0m[34m[1m
+ooooooooo.                     [37m[0m[1m-ooooooooo[0m[34m[1m[0m
+[20A[9999999D[44C[0m[1m[0m[1mskogix[0m@[0m[1mworkstation[0m 
+[44C[0m------------------[0m 
+[44C[0m[34m[1mOS[0m[0m:[0m ArcoLinux[0m 
+[44C[0m[34m[1mKernel[0m[0m:[0m 5.15.7-arch1-1[0m 
+[44C[0m[34m[1mUptime[0m[0m:[0m 17 mins[0m 
+l[44C[0m[34m[1mPackages[0m[0m:[0m 1656 (pacman)[0m 
+[44C[0m[34m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[44C[0m[34m[1mResolution[0m[0m:[0m 1024x768, 1920x1080[0m 
+[44C[0m[34m[1mDE[0m[0m:[0m i3-with-shmlog[0m 
+[44C[0m[34m[1mWM[0m[0m:[0m i3[0m 
+[44C[0m[34m[1mTheme[0m[0m:[0m Arc-Dark [GTK2/3][0m 
+[44C[0m[34m[1mIcons[0m[0m:[0m Sardi-Arc [GTK2/3][0m 
+[44C[0m[34m[1mTerminal[0m[0m:[0m script[0m 
+[44C[0m[34m[1mCPU[0m[0m:[0m Intel i7-7700K (8) @ 4.500GHz[0m 
+[44C[0m[34m[1mGPU[0m[0m:[0m NVIDIA GeForce GTX 1070[0m 
+[44C[0m[34m[1mMemory[0m[0m:[0m 1170MiB / 15943MiB (7%)[0m 
+
+[44C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[44C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/data]1;~/data[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/data[38;5;075m([38;5;078mmain[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[82C [38;5;237mskogix@workstation[00m[101D[?1h=[6 q[?2004h[32ml[39m[?1l>[0 q[?2004l
+]2;exa -l --color=auto]1;l[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m [38;5;244m-[0m [1;33mskogix[0m [34m12 dec 07:40[0m [1;34mdocs[0m
+[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m [38;5;244m-[0m [1;33mskogix[0m [34m 4 dec 19:06[0m [1;34mpics[0m
+[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m [38;5;244m-[0m [1;33mskogix[0m [34m12 dec 05:15[0m [1;34mscripts[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m [1;32m0[0m [1;33mskogix[0m [34m19 dec 10:09[0m typescript
+[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m [38;5;244m-[0m [1;33mskogix[0m [34m12 dec 08:59[0m [1;34mvids[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/data]1;~/data[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/data[38;5;075m([38;5;078mmain[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[82C [38;5;237mskogix@workstation[00m[101D[?1h=[6 q[?2004h[4ms[24m[4ms[4mc[24m[4ms[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[24m[32ms[24m[32mc[24m[32mr[24m[32mi[24m[32mp[32mt[39m[39m[4ms[39m[4mc[39m[4mr[39m[4mi[39m[4mp[39m[4mt[4ms[24m[?1l>[0 q[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/data/scripts]1;~/data/scripts[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/data/scripts[38;5;075m([38;5;078mmain[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[74C [38;5;237mskogix@workstation[00m[93D[?1h=[6 q[?2004h[32ml[39m[?1l>[0 q[?2004l
+]2;exa -l --color=auto]1;l[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m [38;5;244m-[0m [1;33mskogix[0m [34m12 dec 05:15[0m [1;34mani-cli[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/data/scripts]1;~/data/scripts[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/data/scripts[38;5;075m([38;5;078mmain[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[74C [38;5;237mskogix@workstation[00m[93D[?1h=[6 q[?2004h[32mc[39m[32mc[32md[39m[?1l>[0 q[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~]1;~[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~ [38;5;105m»[00m [K[94C [38;5;237mskogix@workstation[00m[113D[?1h=[6 q[?2004h[4mt[24m[4mt[4mm[24m[4mt[4mm[4mp[24m[?1l>[0 q[?2004l
+]2;tmp]1;tmp[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/tmp]1;~/tmp[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/tmp [38;5;105m»[00m [K[90C [38;5;237mskogix@workstation[00m[109D[?1h=[6 q[?2004h[32ml[39m[?1l>[0 q[?2004l
+]2;exa -l --color=auto]1;l.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m [1;32m365[0m[32mk[0m [1;33mskogix[0m [34m12 dec 09:05[0m Bacon and stuff - Reddits Favorite Books.nzb
+[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m    [38;5;244m-[0m [1;33mskogix[0m [34m12 dec 09:08[0m [1;34mbooks[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m17[0m[32mk[0m [1;33mskogix[0m [34m13 dec 21:29[0m [1;35mexiht9hlb0c21.jpg[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m32[0m[32mM[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;31mNullpoMino7.5.0_linux.tar[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m21[0m[32mM[0m [1;33mskogix[0m [34m13 dec 07:52[0m [1;31mNullpoMino7.5.0_linux.tar.gz[0m
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mNullpoMino7_5_0[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m [1;32m172[0m[32mk[0m [1;33mskogix[0m [34m12 dec 07:58[0m [1;31movergrive-3.3.10-0-any.pkg.tar.xz[0m
+[1;34md[33mr[31mw[32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m    [38;5;244m-[0m [1;33mskogix[0m [34m12 dec 09:31[0m [1;34mReddit's Favorite Books[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m12[0m[32mk[0m [1;33mskogix[0m [34m13 dec 22:41[0m [1;35mscrot-2021-12-13_Dec-12-1639431661_544x39.png[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m12[0m[32mk[0m [1;33mskogix[0m [34m13 dec 23:21[0m [1;35mscrot-2021-12-13_Dec-12-1639434064_551x49.png[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m48[0m[32mk[0m [1;33mskogix[0m [34m13 dec 17:36[0m TheCore6g_right_Scandinavia.SC2Hotkeys
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/tmp]1;~/tmp[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/tmp [38;5;105m»[00m [K[90C [38;5;237mskogix@workstation[00m[109D[?1h=[6 q[?2004h[1m[31mn[0m[39m[1m[31mn[1m[31mu[0m[39m[1m[31mn[1m[31mu[1m[31ml[0m[39m[1m[31ml[1m[31ml[0m[39m[0m[39m[4mN[0m[39m[4mu[0m[39m[4ml[0m[39m[4ml[24m[24mN[24mu[24ml[24ml
+[J[0mNULLCMD           [J[01;34mNullpoMino7_5_0[0m/[J[A[0m[27m[24m[8CNull[K[86C [38;5;237mskogix@workstation[00m[105DNULLCMD[1m=[0m
+[J[7mNULLCMD         [0m  [J[01;34mNullpoMino7_5_0[0m/[J[A[0m[27m[24m[8CNULLCMD[1m=[0m[K[82C [38;5;237mskogix@workstation[00m[101D
+[7mNULLCMD         [0m  [7mNULLCMD         [0m  [A[0m[27m[24m[8CNULLCMD[1m=[0m[K[82C [38;5;237mskogix@workstation[00m[101D[8DNullpoM[0mino7_5_0[1m/[0m
+[18C[7mNullpoMino7_5_0/[0mNULLCMD           [A[0m[27m[24m[8CNullpoMino7_5_0[1m/[0m[K[74C [38;5;237mskogix@workstation[00m[93D
+[J[A[24C[16D[4mN[4mu[4ml[4ml[4mp[4mo[4mM[4mi[4mn[4mo[4m7[4m_[4m5[4m_[4m0[1m[4m/[0m[24m[4m0[24m[0m[24m [?1l>[0 q[?2004l
+[J]2;NullpoMino7_5_0]1;NullpoMino7_5_0[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/tmp/NullpoMino7_5_0]1;..llpoMino7_5_0[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/tmp/NullpoMino7_5_0 [38;5;105m»[00m [K[74C [38;5;237mskogix@workstation[00m[93D[?1h=[6 q[?2004h[32ml[39m[?1l>[0 q[?2004l
+]2;exa -l --color=auto]1;l.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m202[0m [1;33mskogix[0m [34m 6 jan  2011[0m airankstool
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mconfig[0m
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mdoc[0m
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mlib[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m [1;32m1,5[0m[32mk[0m [1;33mskogix[0m [34m14 jul  2010[0m LICENCE.txt
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mlog[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m125[0m [1;33mskogix[0m [34m 6 aug  2010[0m musiclisteditor
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m111[0m [1;33mskogix[0m [34m11 okt  2010[0m netadmin
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m110[0m [1;33mskogix[0m [34m 5 okt  2010[0m netserver
+.[1;33mr[31mw[4;32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m   [1;32m40[0m [1;33mskogix[0m [34m16 jan  2011[0m [1;32mNullpoMino[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m [1;32m1,2[0m[32mM[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;31mNullpoMino.jar[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m150[0m [1;33mskogix[0m [34m 6 aug  2010[0m play_sdl
+.[1;33mr[31mw[4;32mx[0m[33mr[38;5;244m-[32mx[33mr[38;5;244m-[32mx[0m  [1;32m255[0m [1;33mskogix[0m [34m 6 aug  2010[0m [1;32mplay_slick[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m114[0m [1;33mskogix[0m [34m 6 aug  2010[0m play_swing
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m58[0m[32mk[0m [1;33mskogix[0m [34m13 dec 08:10[0m [1;4;33mreadme_en.txt[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m55[0m[32mk[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;4;33mreadme_jp.txt[0m
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mreplay[0m
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mres[0m
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m115[0m [1;33mskogix[0m [34m 6 aug  2010[0m ruleeditor
+.[1;33mr[31mw[0m[38;5;244m-[33mr[38;5;244m--[33mr[38;5;244m--[0m  [1;32m113[0m [1;33mskogix[0m [34m 6 aug  2010[0m sequencer
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34msrc[0m
+[1;34md[33mr[31mw[32mx[0m[38;5;244m------[0m    [38;5;244m-[0m [1;33mskogix[0m [34m21 jan  2011[0m [1;34mss[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;skogix@workstation:~/tmp/NullpoMino7_5_0]1;..llpoMino7_5_0[0m[27m[24m[J[38;5;237m----------------------------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/tmp/NullpoMino7_5_0 [38;5;105m»[00m [K[74C [38;5;237mskogix@workstation[00m[93D[?1h=[6 q[?2004h[32m.[39m[39m[4m.[4m/[24m[4m.[4m/[4mn[24m[24m[1m[31m.[24m[1m[31m/[24m[1m[31mn[1m[31mu[0m[39m[1m[31mu[1m[31ml[0m[39m[1m[31ml[1m[31ml[0m[39m[0m[32m.[0m[32m/[0m[32mN[0m[32mu[0m[32ml[0m[32ml[32mpoMino[39m[1m [0m[0m [?1l>[0 q[?2004l
+]2;./NullpoMino]1;./NullpoMino10:09:17,282 [main] INFO  NullpoMinoSlick: NullpoMinoSlick Start
+OpenJDK 64-Bit Server VM warning: You have loaded library /home/skogix/tmp/NullpoMino7_5_0/lib/liblwjgl.so which might have disabled stack guard. The VM will try to fix the stack guard now.
+It's highly recommended that you fix the library with 'execstack -c <libfile>', or link it with '-z noexecstack'.
+10:09:17,534 [main] INFO  NullpoMinoSlick: Driver adapter:null, Driver version:null
+10:09:17,587 [main] INFO  Slick: Slick Build #229
+10:09:17,587 [main] INFO  Slick: LWJGL Version: 2.6
+10:09:17,587 [main] INFO  Slick: OriginalDisplayMode: 2944 x 1080 x 24 @50Hz
+10:09:17,587 [main] INFO  Slick: TargetDisplayMode: 1280 x 960 x 0 @0Hz
+10:09:17,701 [main] INFO  Slick: Starting display 1280x960
+10:09:17,707 [main] INFO  Slick: Use Java PNG Loader = true
+Loading: net.java.games.input.LinuxEnvironmentPlugin
+Failed to open device (/dev/input/event24): Failed to open device /dev/input/event24 (13)
+
+Failed to open device (/dev/input/event23): Failed to open device /dev/input/event23 (13)
+
+Failed to open device (/dev/input/event22): Failed to open device /dev/input/event22 (13)
+
+Failed to open device (/dev/input/event21): Failed to open device /dev/input/event21 (13)
+
+Failed to open device (/dev/input/event20): Failed to open device /dev/input/event20 (13)
+
+Failed to open device (/dev/input/event19): Failed to open device /dev/input/event19 (13)
+
+Failed to open device (/dev/input/event18): Failed to open device /dev/input/event18 (13)
+
+Failed to open device (/dev/input/event17): Failed to open device /dev/input/event17 (13)
+
+Failed to open device (/dev/input/event16): Failed to open device /dev/input/event16 (13)
+
+Failed to open device (/dev/input/event15): Failed to open device /dev/input/event15 (13)
+
+Failed to open device (/dev/input/event14): Failed to open device /dev/input/event14 (13)
+
+Failed to open device (/dev/input/event13): Failed to open device /dev/input/event13 (13)
+
+Failed to open device (/dev/input/event12): Failed to open device /dev/input/event12 (13)
+
+Failed to open device (/dev/input/event11): Failed to open device /dev/input/event11 (13)
+
+Failed to open device (/dev/input/event10): Failed to open device /dev/input/event10 (13)
+
+Failed to open device (/dev/input/event9): Failed to open device /dev/input/event9 (13)
+
+Failed to open device (/dev/input/event8): Failed to open device /dev/input/event8 (13)
+
+Failed to open device (/dev/input/event7): Failed to open device /dev/input/event7 (13)
+
+Failed to open device (/dev/input/event6): Failed to open device /dev/input/event6 (13)
+
+Failed to open device (/dev/input/event5): Failed to open device /dev/input/event5 (13)
+
+Failed to open device (/dev/input/event4): Failed to open device /dev/input/event4 (13)
+
+Failed to open device (/dev/input/event3): Failed to open device /dev/input/event3 (13)
+
+Failed to open device (/dev/input/event2): Failed to open device /dev/input/event2 (13)
+
+Failed to open device (/dev/input/event1): Failed to open device /dev/input/event1 (13)
+
+Failed to open device (/dev/input/event0): Failed to open device /dev/input/event0 (13)
+
+Linux plugin claims to have found 0 controllers
+10:09:17,723 [main] INFO  Slick: Found 0 controllers
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).MARATHON
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).LINE RACE
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).DIG RACE
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).DIG CHALLENGE
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).ULTRA
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).GRADE MANIA 3
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).SPEED MANIA 2
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).PRACTICE
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).GEM MANIA
+10:09:17,757 [main] DEBUG StateSelectModeFolder: (top-level).VS-BATTLE
+10:09:17,757 [main] DEBUG StateSelectModeFolder: STANDARD MODES.MARATHON
+10:09:17,757 [main] DEBUG StateSelectModeFolder: STANDARD MODES.MARATHON+
+10:09:17,757 [main] DEBUG StateSelectModeFolder: STANDARD MODES.EXTREME
+10:09:17,757 [main] DEBUG StateSelectModeFolder: STANDARD MODES.TECHNICIAN
+10:09:17,757 [main] DEBUG StateSelectModeFolder: RACE MODES.LINE RACE
+10:09:17,758 [main] DEBUG StateSelectModeFolder: RACE MODES.SCORE RACE
+10:09:17,758 [main] DEBUG StateSelectModeFolder: RACE MODES.DIG RACE
+10:09:17,758 [main] DEBUG StateSelectModeFolder: RACE MODES.COMBO RACE
+10:09:17,758 [main] DEBUG StateSelectModeFolder: RACE MODES.ULTRA
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.GRADE MANIA
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.GRADE MANIA 2
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.GRADE MANIA 3
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.SCORE ATTACK
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.SPEED MANIA
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.SPEED MANIA 2
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.GARBAGE MANIA
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.PHANTOM MANIA
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.FINAL
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.TIME ATTACK
+10:09:17,758 [main] DEBUG StateSelectModeFolder: MANIA MODES.GEM MANIA
+10:09:17,758 [main] DEBUG StateSelectModeFolder: RETRO MODES.RETRO MARATHON
+10:09:17,759 [main] DEBUG StateSelectModeFolder: RETRO MODES.RETRO MASTERY
+10:09:17,759 [main] DEBUG StateSelectModeFolder: RETRO MODES.RETRO MANIA
+10:09:17,759 [main] DEBUG StateSelectModeFolder: MISC MODES.SQUARE
+10:09:17,759 [main] DEBUG StateSelectModeFolder: MISC MODES.DIG CHALLENGE
+10:09:17,759 [main] DEBUG StateSelectModeFolder: MISC MODES.VS-BATTLE
+10:09:17,759 [main] DEBUG StateSelectModeFolder: MISC MODES.TOOL-VS MAP EDIT
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE 1P (RC2)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE 1P FEVER MARATHON (RC2)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE VS-BATTLE (RC1)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE VS FEVER MARATHON (RC1)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE VS DIG RACE (RC1)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE VS BOMB BATTLE (RC1)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: AVALANCHE.AVALANCHE-SPF VS-BATTLE (BETA)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: PHYSICIAN.PHYSICIAN (RC1)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: PHYSICIAN.PHYSICIAN VS-BATTLE (RC1)
+10:09:17,759 [main] DEBUG StateSelectModeFolder: SPF.SPF VS-BATTLE (BETA)
+10:09:17,761 [main] INFO  ControllerManager: Found 0 controllers from NullpoMinoSlick app
+10:09:17,763 [main] INFO  ResourceHolder: Loading Image
+10:09:17,764 [main] DEBUG ResourceHolder: 29 block skins found
+10:09:17,765 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n0.png
+10:09:17,767 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s0.png
+10:09:17,768 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b0.png
+10:09:17,770 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n1.png
+10:09:17,770 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s1.png
+10:09:17,771 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b1.png
+10:09:17,772 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n2.png
+10:09:17,773 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s2.png
+10:09:17,774 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b2.png
+10:09:17,775 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n3.png
+10:09:17,776 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s3.png
+10:09:17,776 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b3.png
+10:09:17,777 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n4.png
+10:09:17,778 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s4.png
+10:09:17,778 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b4.png
+10:09:17,779 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n5.png
+10:09:17,779 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s5.png
+10:09:17,780 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b5.png
+10:09:17,781 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n6.png
+10:09:17,781 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s6.png
+10:09:17,781 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b6.png
+10:09:17,782 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n7.png
+10:09:17,783 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s7.png
+10:09:17,783 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b7.png
+10:09:17,784 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n8.png
+10:09:17,784 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s8.png
+10:09:17,785 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b8.png
+10:09:17,786 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n9.png
+10:09:17,789 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s9.png
+10:09:17,790 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b9.png
+10:09:17,796 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n10.png
+10:09:17,798 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s10.png
+10:09:17,799 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b10.png
+10:09:17,800 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n11.png
+10:09:17,800 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s11.png
+10:09:17,801 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b11.png
+10:09:17,801 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n12.png
+10:09:17,802 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s12.png
+10:09:17,802 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b12.png
+10:09:17,803 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n13.png
+10:09:17,804 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s13.png
+10:09:17,804 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b13.png
+10:09:17,805 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n14.png
+10:09:17,806 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s14.png
+10:09:17,806 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b14.png
+10:09:17,807 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n15.png
+10:09:17,807 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s15.png
+10:09:17,808 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b15.png
+10:09:17,808 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n16.png
+10:09:17,809 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s16.png
+10:09:17,809 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b16.png
+10:09:17,810 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n17.png
+10:09:17,811 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s17.png
+10:09:17,811 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b17.png
+10:09:17,812 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n18.png
+10:09:17,814 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s18.png
+10:09:17,815 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b18.png
+10:09:17,816 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n19.png
+10:09:17,816 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s19.png
+10:09:17,817 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b19.png
+10:09:17,817 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n20.png
+10:09:17,818 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s20.png
+10:09:17,818 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b20.png
+10:09:17,819 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n21.png
+10:09:17,820 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s21.png
+10:09:17,820 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b21.png
+10:09:17,821 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n22.png
+10:09:17,823 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s22.png
+10:09:17,823 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b22.png
+10:09:17,825 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n23.png
+10:09:17,826 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s23.png
+10:09:17,826 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b23.png
+10:09:17,828 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n24.png
+10:09:17,828 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s24.png
+10:09:17,829 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b24.png
+10:09:17,830 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n25.png
+10:09:17,830 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s25.png
+10:09:17,831 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b25.png
+10:09:17,832 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n26.png
+10:09:17,833 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s26.png
+10:09:17,833 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b26.png
+10:09:17,834 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n27.png
+10:09:17,836 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s27.png
+10:09:17,838 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b27.png
+10:09:17,844 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/normal/n28.png
+10:09:17,846 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/small/s28.png
+10:09:17,847 [main] DEBUG ResourceHolder: Loading image from res/graphics/blockskin/big/b28.png
+10:09:17,852 [main] DEBUG ResourceHolder: Loading image from res/graphics/font.png
+10:09:17,870 [main] DEBUG ResourceHolder: Loading image from res/graphics/font_small.png
+10:09:17,872 [main] DEBUG ResourceHolder: Loading image from res/graphics/title.png
+10:09:17,882 [main] DEBUG ResourceHolder: Loading image from res/graphics/menu.png
+10:09:17,886 [main] DEBUG ResourceHolder: Loading image from res/graphics/frame.png
+10:09:17,886 [main] DEBUG ResourceHolder: Loading image from res/graphics/fieldbg2.png
+10:09:17,888 [main] DEBUG ResourceHolder: Loading image from res/graphics/fieldbg2_small.png
+10:09:17,888 [main] DEBUG ResourceHolder: Loading image from res/graphics/fieldbg2_big.png
+10:09:17,891 [main] DEBUG ResourceHolder: Loading image from res/graphics/break0_0.png
+10:09:17,895 [main] DEBUG ResourceHolder: Loading image from res/graphics/break0_1.png
+10:09:17,896 [main] DEBUG ResourceHolder: Loading image from res/graphics/break1_0.png
+10:09:17,899 [main] DEBUG ResourceHolder: Loading image from res/graphics/break1_1.png
+10:09:17,901 [main] DEBUG ResourceHolder: Loading image from res/graphics/break2_0.png
+10:09:17,903 [main] DEBUG ResourceHolder: Loading image from res/graphics/break2_1.png
+10:09:17,905 [main] DEBUG ResourceHolder: Loading image from res/graphics/break3_0.png
+10:09:17,908 [main] DEBUG ResourceHolder: Loading image from res/graphics/break3_1.png
+10:09:17,909 [main] DEBUG ResourceHolder: Loading image from res/graphics/break4_0.png
+10:09:17,912 [main] DEBUG ResourceHolder: Loading image from res/graphics/break4_1.png
+10:09:17,913 [main] DEBUG ResourceHolder: Loading image from res/graphics/break5_0.png
+10:09:17,916 [main] DEBUG ResourceHolder: Loading image from res/graphics/break5_1.png
+10:09:17,917 [main] DEBUG ResourceHolder: Loading image from res/graphics/break6_0.png
+10:09:17,920 [main] DEBUG ResourceHolder: Loading image from res/graphics/break6_1.png
+10:09:17,922 [main] DEBUG ResourceHolder: Loading image from res/graphics/break7_0.png
+10:09:17,924 [main] DEBUG ResourceHolder: Loading image from res/graphics/break7_1.png
+10:09:17,926 [main] DEBUG ResourceHolder: Loading image from res/graphics/perase0.png
+10:09:17,927 [main] DEBUG ResourceHolder: Loading image from res/graphics/perase1.png
+10:09:17,928 [main] DEBUG ResourceHolder: Loading image from res/graphics/perase2.png
+10:09:17,929 [main] DEBUG ResourceHolder: Loading image from res/graphics/perase3.png
+10:09:17,930 [main] DEBUG ResourceHolder: Loading image from res/graphics/pera
